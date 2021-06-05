@@ -1,4 +1,4 @@
-see results of Leaflet-Step-2 here: 
+see results of Leaflet-Step-2 here: https://stu-vic.github.io/leaflet-challenge/
 
 
 # leaflet-challenge
